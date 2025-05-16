@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS/Scenes/level5.unity
     guid: 188dbd67180fb7944a04bc6889711dc3
+  - enabled: 1
+    path: Assets/FPS/Scenes/EndGamee.unity
+    guid: ac9200b154081724487e3b70feb73a64
+  - enabled: 1
+    path: Assets/FPS/Scenes/Credits.unity
+    guid: b517533aa03854c4ca250b468de6d5ea
   m_configObjects: {}
